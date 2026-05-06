@@ -10,8 +10,8 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "niko.png",
-      "type": "image/png", "sizes": "150x150"
+      "src": "https://greenstars.cc/_emdash/api/media/file/01KNT2WJSP27QNQ86BRNMXVTDE.svg",
+      "type": "image/svg+xml"
     }
   ]
 }
