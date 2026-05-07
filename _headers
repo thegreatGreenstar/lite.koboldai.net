@@ -1,0 +1,9 @@
+# This is a comment
+
+/*
+  Access-Control-Allow-Origin: https://challenges.cloudflare.com https://cloudflare.com https://static.cloudflareinsights.com https://chatai.greenstars.cc
+  Cross-Origin-Embedder-Policy: require-corp
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Resource-Policy: same-origin
+  permissions-policy: camera=(), display-capture=(), geolocation=(), microphone=(), payment=(), usb=()
+  referrer-policy: origin-when-cross-origin
