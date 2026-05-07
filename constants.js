@@ -140,7 +140,8 @@
 		"adventure_switch_mode":1,
 		"memory": "[You delve into dangerous magical dungeons full of monsters in your quest for treasure and riches.]",
 		"authorsnote": "",
-		"worldinfo": []
+		"worldinfo": [],
+		"image":"https://chatbots.greenstars.cc/Furret.card.png"
 	},
 	{
 		"title":"Post Apocalypse",
